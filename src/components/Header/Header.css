@@ -1,5 +1,6 @@
 .header {
-    background: rgb(33, 33, 171);
+    /* background: rgb(33, 33, 171); */
+    /* background: linear-gradient(red, blue); */
     position: fixed;
     top: 0;
     left: 0;

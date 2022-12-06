@@ -1,20 +1,21 @@
-.button{
-    border: none;
-    font: inherit;
-    background: rgb(248, 99, 0);
-    color: #fff;
-    padding: 0.75rem 1.25rem;
-    display: flex;
-    justify-content: space-around;
-    border-radius: 8px;
-    align-items: center;
-    font-weight: bold;
+.button {
+   border: none;
+   font: inherit;
+   background: rgb(83, 94, 193);
+   /* background: rgb(33, 33, 171); */
+   color: #fff;
+   padding: 0.75rem 1.25rem;
+   display: flex;
+   justify-content: space-around;
+   border-radius: 8px;
+   align-items: center;
+   font-weight: bold;
 }
 
-.badge{
-    background: rgb(33, 33, 171);
-    padding: 0.2rem 0.5rem;
-    border-radius: 8px;
-    margin-left: 1rem;
-    font-weight: bold;
+.badge {
+   background: #e66465;
+   padding: 0.2rem 0.5rem;
+   border-radius: 8px;
+   margin-left: 1rem;
+   font-weight: bold;
 }

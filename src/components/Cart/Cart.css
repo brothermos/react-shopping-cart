@@ -1,8 +1,8 @@
 .shopping-cart {
    width: 750px;
-   height: 420px;
+   height: 450px;
    background: #fff;
-   margin: 200px auto;
+   margin: 150px auto;
    border-radius: 8px;
    display: flex;
    flex-direction: column;

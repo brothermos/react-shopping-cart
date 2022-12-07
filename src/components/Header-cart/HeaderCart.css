@@ -1,7 +1,7 @@
 .button {
    border: none;
    font: inherit;
-   background: rgb(83, 94, 193);
+   background: rgb(230, 60, 60);
    /* background: rgb(33, 33, 171); */
    color: #fff;
    padding: 0.75rem 1.25rem;
@@ -13,7 +13,7 @@
 }
 
 .badge {
-   background: #e66465;
+   background: #646be6;
    padding: 0.2rem 0.5rem;
    border-radius: 8px;
    margin-left: 1rem;

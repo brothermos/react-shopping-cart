@@ -1,9 +1,9 @@
-*{
-  box-sizing: border-box;
-  overflow: hidden;
+* {
+   box-sizing: border-box;
+   overflow: hidden;
 }
 
 body {
-  /* background: rgb(248, 99, 0); */
-  background: linear-gradient(#e66465, #9198e5);
+   background: #9198e5;
+   /* background: linear-gradient(#e66465, #9198e5); */
 }
